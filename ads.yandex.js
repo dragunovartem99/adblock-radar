@@ -1,1 +1,1 @@
-console.log("AdBlock is disabled");
+console.log("ads.yandex.js was loaded");
